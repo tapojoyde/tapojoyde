@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tapojoy De.
 - 🎓 Graduated with Masters in Analytics, RMIT University (2021).
 - 👀 Interested in data science and analysis.
-- 💡 Check out my portfolio : https://github.com/tapojoyde/Data-Science-Portfolio
+- 💡 Check out my projects : https://github.com/tapojoyde/Data-Science-Portfolio
 - 🌱 Currently practising Python, R and SQL.
 - 💞️ Looking to collaborate on interesting data science projects.
 - 📫 Reach me at : de777tapojoy@gmail.com
